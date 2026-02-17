@@ -4,8 +4,8 @@ This project implements a dual-model solution for short-term energy load forecas
 
 Team members:
 - Vishwambhara R Hebbalalu (myself)
-- (Vrishank N A)[https://github.com/vrishank-na]
-- (Yuti Naha)[https://github.com/YutiNaha16]
+- [Vrishank N A](https://github.com/vrishank-na)
+- [Yuti Naha](https://github.com/YutiNaha16)
 
 ---
 
