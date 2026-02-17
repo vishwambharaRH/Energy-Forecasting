@@ -2,6 +2,11 @@
 
 This project implements a dual-model solution for short-term energy load forecasting in commercial buildings. It combines a traditional machine learning model (LightGBM) trained on engineered time-series features with a foundation model approach using IBM's Tiny Time Mixer (TSFM) for zero-shot forecasting. Both models operate on a shared preprocessing pipeline to enable direct, meaningful comparison.
 
+Team members:
+Vishwambhara R Hebbalalu (myself)
+(Vrishank N A)[https://github.com/vrishank-na]
+(Yuti Naha)[https://github.com/YutiNaha16]
+
 ---
 
 ## Methodology
